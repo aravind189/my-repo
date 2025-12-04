@@ -1,0 +1,35 @@
+Cashfree Payments
+
+DevOps Engineer | April 2025 – October 2025
+
+Managed high-availability Kubernetes clusters in dev, test, and production environments.
+
+Maintained core Kubernetes components: Pods, Services, Deployments, ReplicaSets, StatefulSets, DaemonSets, Ingress, RBAC, Network Policies, Resource Quotas, LimitRange, Pod Presets, Secrets, ConfigMaps, and Autoscaling.
+
+Deployed applications/services to Kubernetes using Helm charts.
+
+Created custom Docker images and managed Dockerfile-based builds.
+
+Performed Kubernetes cluster hardening and version upgrades.
+
+Managed Pod Security Policies (PSP) and Network Policies across namespaces.
+
+Performed ETCD backup and restoration, cluster troubleshooting, and issue resolution.
+
+Implemented branching strategies and managed CI/CD pipelines in Jenkins & ArgoCD using GitOps.
+
+Designed and managed end-to-end CI (Jenkins) and CD (ArgoCD) processes.
+
+Managed monitoring stack using Prometheus + Grafana, configured alerts for CPU/memory thresholds.
+
+Handled dashboards, alerts, and visualization for production workloads.
+
+Administered GKE clusters on Google Cloud Platform.
+
+Provided deployment support for production releases on GKE.
+
+Managed artifact storage & image repositories such as Nexus and Harbor.
+
+Wrote automation scripts in Bash and scheduled cron jobs on production servers.
+
+Monitored OpenShift cluster health and resolved infra-level issues.
